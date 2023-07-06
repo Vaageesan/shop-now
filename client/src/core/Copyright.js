@@ -8,8 +8,8 @@ export default function Copyright() {
     <Box mt={8} mb={4}>
       <Typography variant='body2' color='textSecondary' align='center'>
         {'Copyright © '}
-        <Link color='inherit' href='#'>
-          Ashraf Kabir
+        <Link color='inherit' href='https://linkedin.com/in/vaageesan-v-v-a5a468280'>
+          Vaageesan V V
         </Link>{' '}
         {new Date().getFullYear()}
         {'.'}

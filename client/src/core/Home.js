@@ -39,7 +39,7 @@ const Home = () => {
   return (
     <Layout
       title='Home page'
-      description='MERN E-commerce App'
+      description='Welcome to Shop Now App!'
       className='container-fluid'
     >
       <Search />

@@ -177,7 +177,7 @@ export default function Signin() {
   return (
     <Layout
       title='Signin page'
-      description='Signin to MERN E-commerce App'
+      description='Signin to Shop now App'
       className='container col-md-8 offset-md-2'
     >
       {signInForm()}
